@@ -1,0 +1,9 @@
+<?php
+$nombre = $_POST['nombre'];
+$edad = $_POST['edad'];
+
+echo "su nombre es :" . $nombre;
+echo "<br><br>";
+echo "su edad es de :" . $edad;
+
+?>
